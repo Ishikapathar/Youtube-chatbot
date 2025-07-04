@@ -35,6 +35,7 @@ GPT-4o-mini answers using only the retrieved context
 
 ⚠️ Additional Notes
 You’ll also need to set your OpenAI API key as an environment variable and store it as .env file.
+OPENAI_API_KEY="" place your key here.
 
 
 
